@@ -1,3 +1,0 @@
-Given plaintext is: Najnin Sultana Shirin.I am a student
-Encrypted text is: PCNPGP YMBFCPC YZGRGPJG CI C YFMXEPF
-Decrypted text is: najnin sultana shirinbi am a student
